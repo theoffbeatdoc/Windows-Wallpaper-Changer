@@ -1,4 +1,4 @@
-# Desktop Wallpaper Changer
+# Windows Wallpaper Changer
  
 **(Windows Only)**
 
